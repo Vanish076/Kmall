@@ -1,9 +1,3 @@
-/*
-* @Author: TomChen
-* @Date:   2019-08-15 16:55:33
-* @Last Modified by:   TomChen
-* @Last Modified time: 2019-08-16 11:17:55
-*/
 import React, { Component } from 'react'
 
 import api from 'api'

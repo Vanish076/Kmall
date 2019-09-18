@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2019-08-26 16:53:39
-* @Last Modified by:   TomChen
-* @Last Modified time: 2019-08-28 10:34:39
-*/
+
 var api = require('api')
 var _util = require('util')
 var _city = require('util/city')

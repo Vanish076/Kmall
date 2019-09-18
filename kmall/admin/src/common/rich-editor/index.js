@@ -1,9 +1,3 @@
-/*
- * @Author: TomChen
- * @Date:   2019-08-19 11:32:57
- * @Last Modified by:   TomChen
- * @Last Modified time: 2019-08-21 11:56:37
- */
 import React, { Component } from 'react'
 
 import Simditor from 'simditor'

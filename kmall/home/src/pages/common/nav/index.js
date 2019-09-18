@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2019-08-22 11:07:01
-* @Last Modified by:   TomChen
-* @Last Modified time: 2019-08-26 09:57:28
-*/
+
 require('./index.css')
 var api = require('api')
 var _util = require('util')

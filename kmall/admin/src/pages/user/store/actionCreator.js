@@ -1,9 +1,3 @@
-/*
-* @Author: TomChen
-* @Date:   2019-08-12 15:11:47
-* @Last Modified by:   TomChen
-* @Last Modified time: 2019-08-18 16:03:52
-*/
 import api from 'api'
 import { message } from 'antd'
 

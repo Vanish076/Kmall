@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2019-08-26 17:16:19
-* @Last Modified by:   TomChen
-* @Last Modified time: 2019-08-26 17:20:03
-*/
+
 var cityInfo = {
     '北京':['北京'],
     '上海':['上海'],

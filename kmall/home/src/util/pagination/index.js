@@ -1,9 +1,4 @@
-/*
-* @Author: TomChen
-* @Date:   2019-08-25 11:48:02
-* @Last Modified by:   TomChen
-* @Last Modified time: 2019-08-25 16:56:33
-*/
+
 var _util = require('util')
 require('./index.css')
 var tpl = require('./index.tpl')

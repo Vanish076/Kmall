@@ -1,9 +1,3 @@
-/*
- * @Author: Tom
- * @Date:   2019-04-09 17:02:09
- * @Last Modified by:   TomChen
- * @Last Modified time: 2019-08-28 17:11:14
- */
 import React, { Component } from 'react'
 import { Table, Divider, Tag,Breadcrumb,InputNumber,Button,Modal,Input,Switch } from 'antd';
 const Search = Input.Search;
